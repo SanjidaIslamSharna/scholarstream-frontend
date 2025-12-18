@@ -20,3 +20,12 @@ If you are developing a production application, we recommend using TypeScript wi
 
 frontend Live Link: https://scholarstream-frontend-xu1p.vercel.app/
 backend livelink : https://scholarstream-server-57ji.onrender.com
+
+
+Admin Account Access 
+Email: superadmin@gmail.com
+pass: Sanjida@123
+
+Moderator Account Access
+Email: moderator@gmail.com
+pass: Sanjida@123
